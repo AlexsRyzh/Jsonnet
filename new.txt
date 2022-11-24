@@ -1,0 +1,14 @@
+#файл с данными
+
+
+
+
+( start
+    ( "cdssfvs"
+        (let i)
+        ( for i from 1  to  10
+            ( "ockdjsfs" i)
+        )
+    )
+
+)
